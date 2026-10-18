@@ -4,11 +4,24 @@
 
 ### NeurIPS 2026
 
-Huaiyuan Qin<sup>1</sup>&nbsp;&nbsp; Muli Yang<sup>1</sup>&nbsp;&nbsp; Gabriel James Goenawan<sup>1</sup>&nbsp;&nbsp; Peng Hu<sup>2</sup>&nbsp;&nbsp; Chen Gong<sup>3</sup>&nbsp;&nbsp; Xi Peng<sup>2</sup>&nbsp;&nbsp; Hongyuan Zhu<sup>1</sup>
+<p>
+<b>Huaiyuan Qin</b><sup>1</sup>&nbsp;&nbsp;·&nbsp;&nbsp;
+<b>Muli Yang</b><sup>1</sup>&nbsp;&nbsp;·&nbsp;&nbsp;
+<b>Gabriel James Goenawan</b><sup>2&dagger;</sup>&nbsp;&nbsp;·&nbsp;&nbsp;
+<b>Peng Hu</b><sup>3</sup>&nbsp;&nbsp;·&nbsp;&nbsp;
+<b>Chen Gong</b><sup>4</sup>&nbsp;&nbsp;·&nbsp;&nbsp;
+<b>Xi Peng</b><sup>3</sup>&nbsp;&nbsp;·&nbsp;&nbsp;
+<b>Hongyuan Zhu</b><sup>1&#9993;</sup>
+</p>
 
-<sup>1</sup>Institute of Advanced Intelligence and Computing (IAIC), A*STAR&nbsp;&nbsp;&nbsp;
-<sup>2</sup>Sichuan University&nbsp;&nbsp;&nbsp;
-<sup>3</sup>Shanghai Jiao Tong University
+<p>
+<sup>1</sup>Institute of Advanced Intelligence and Computing (IAIC), A*STAR&nbsp;&nbsp;&nbsp;&nbsp;
+<sup>2</sup>Intrinsic, Google<br>
+<sup>3</sup>School of Artificial Intelligence, Sichuan University&nbsp;&nbsp;&nbsp;&nbsp;
+<sup>4</sup>School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
+</p>
+
+<p><sup>&dagger;</sup><i>Work done while at A*STAR</i>&nbsp;&nbsp;&nbsp;&nbsp;<sup>&#9993;</sup><i>Corresponding author</i></p>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.07191-b31b1b.svg)](https://arxiv.org/abs/2605.07191)
 [![Paper](https://img.shields.io/badge/Paper-PDF-orange.svg)](https://arxiv.org/pdf/2605.07191)
