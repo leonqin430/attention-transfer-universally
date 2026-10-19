@@ -57,9 +57,8 @@ conda activate attn-transfer
 ```
 
 Tested with PyTorch 2.7 and 2.9 (CUDA 12) and timm 0.4.12, the timm version used by the original code.
-PyTorch 2.5 and older ship NCCL builds that can hang at the first collective on some multi-GPU
-servers; if a run stalls right after the distributed initialization message, set `NCCL_P2P_DISABLE=1`
-or upgrade PyTorch.
+If a multi-GPU run stalls right after the distributed initialization message, the NCCL peer-to-peer
+transport is usually the cause; set `NCCL_P2P_DISABLE=1` to work around it.
 
 ## Data
 
