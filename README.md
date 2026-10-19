@@ -56,7 +56,10 @@ conda env create -f environment.yml
 conda activate attn-transfer
 ```
 
-Tested with Python 3.12, PyTorch 2.9 and timm 0.4.12 (the timm version used by the original code).
+Tested with PyTorch 2.7 and 2.9 (CUDA 12) and timm 0.4.12, the timm version used by the original code.
+PyTorch 2.5 and older ship NCCL builds that can hang at the first collective on some multi-GPU
+servers; if a run stalls right after the distributed initialization message, set `NCCL_P2P_DISABLE=1`
+or upgrade PyTorch.
 
 ## Data
 

@@ -1,14 +1,11 @@
 name: attn-transfer
 channels:
-  - pytorch
-  - nvidia
   - conda-forge
 dependencies:
   - python=3.10
-  - pytorch>=2.1
-  - torchvision
-  - pytorch-cuda=12.1
-  - tensorboard
   - pip
   - pip:
+      - torch==2.7.1
+      - torchvision==0.22.1
       - timm==0.4.12
+      - tensorboard
